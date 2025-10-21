@@ -1,8 +1,11 @@
-# pen
+# Pen and Paper
 
-A new Flutter project.
+A todo app that focuses more of animation and beautiful Ui.
+The main purpose was for me to leverage amimating backgrounds and played with lots of colors.
 
-## Getting Started
+## Features
+-Hive for storage
+-Very beautiful UI.
 
 This project is a starting point for a Flutter application.
 
